@@ -1,0 +1,631 @@
+export const mochUserFeed = [
+  {
+    id: '7031029610628320518',
+    desc: '#oleg_sheff',
+    createTime: 1637039152,
+    video: {
+      id: '7031029610628320518',
+      height: 1024,
+      width: 576,
+      duration: 8,
+      ratio: '720p',
+      cover:
+        'https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e31a9812e60940d084d78b6318eb668f_1631373232?x-expires=1637096400&x-signature=HMECawKCszy4GbcvczT3MQfenFg%3D',
+      originCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0723d82a8fef493dae593393efb3d3be_1637039153?x-expires=1637078400&x-signature=mzalAEmkI6nISa7DVTKg3v%2FAIN8%3D',
+      dynamicCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/53656049821a4aca8b3630aa9f78de15_1637039154?x-expires=1637078400&x-signature=OxDtCPqgSDhaREx5pwBpKeVmy0U%3D',
+      playAddr:
+        'https://v39-eu.tiktokcdn.com/f8ee50c3d169c1e0f104a8f03ac4064c/61942162/video/tos/alisg/tos-alisg-pve-0037c001/449c8bd66c7941a5ba06ef064081e855/?a=1233&br=3502&bt=1751&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=wZ~R_F5qkag3-I&l=20211116152337010189074219181900AA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amttNjU6ZjtmNzMzODczNEApNDhoOTozNWU2NzdkM2Y0ZGdtcTBxcjRvY3JgLS1kMS1zcy5iNDJfMTU2NDMyXjYvNTI6Yw%3D%3D&vl=&vr=',
+      downloadAddr:
+        'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/f527b7a93c154168a7bfa5272af59662/?a=1988&br=1618&bt=809&cd=0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&expire=1637078708&ft=wUyFfFGnkag3-I&l=2021111610050001018907420806051B9B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=3&qs=0&rc=amxqZ2g6ZjltOTMzNzczM0ApZztnOTw1M2VoNzMzOmU3N2cvYmAxcjRfbDZgLS1kMTZzc2FjMi4uYV8xX2I0YV81XzQ6Yw%3D%3D&signature=4b4e8d99bfdfbfa251c1d1525fa1aa5c&tk=7001503582143808518&vl=&vr=',
+      shareCover: [
+        '',
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0723d82a8fef493dae593393efb3d3be_1637039153~tplv-tiktok-play.jpeg?x-expires=1637078400&x-signature=L2eiboZgYBMMtiu2MUUW5EVGxLk%3D',
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0723d82a8fef493dae593393efb3d3be_1637039153~tplv-tiktokx-share-play.jpeg?x-expires=1637078400&x-signature=QtOiTU9SgFXP4pvZf%2Foj%2BQ4jres%3D',
+      ],
+      reflowCover:
+        'https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e31a9812e60940d084d78b6318eb668f_1631373232?x-expires=1637096400&x-signature=HMECawKCszy4GbcvczT3MQfenFg%3D',
+      bitrate: 828461,
+      encodedType: 'normal',
+      format: 'mp4',
+      videoQuality: 'normal',
+      encodeUserTag: '',
+      codecType: 'h264',
+      definition: '720p',
+    },
+    author: {
+      id: '6787631781866587141',
+      uniqueId: 'oleg_sheff',
+      nickname: 'Олег',
+      avatarThumb:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_100x100.jpeg?x-expires=1637143200&x-signature=9CiaTaf3MNXs8VJ4UbqKDhlCY8k%3D',
+      avatarMedium:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_720x720.jpeg?x-expires=1637143200&x-signature=4rHCslWH7Lu895CrcR5hujN4k8E%3D',
+      avatarLarger:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_1080x1080.jpeg?x-expires=1637143200&x-signature=Z3nYLmqSSF4HJkIwoDZmp6oOODs%3D',
+      signature:
+        '🔥 EXCLUSIVE 🔥\nпопугай ЖАКО 🦜\nзовут Жора 🤘\nРаботает за лайки ❤ и коменты 💬',
+      verified: false,
+      secUid:
+        'MS4wLjABAAAAaKbDq-1WjuYX_DPwvnAyzgPF32lo95K-8MHSrr0HD_5nQ1L-yazTLD2acOEE1En6',
+      secret: false,
+      ftc: false,
+      relation: 0,
+      openFavorite: false,
+      commentSetting: 0,
+      duetSetting: 0,
+      stitchSetting: 0,
+      privateAccount: false,
+    },
+    music: {
+      id: '7016773558680438786',
+      title: 'Доброго вечора - Where Are You From',
+      playUrl:
+        'https://sf58-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/dca16b7ed1f0415d9700b10c5a3b5439',
+      coverThumb:
+        'https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c~c5_100x100.jpeg',
+      coverMedium:
+        'https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c~c5_200x200.jpeg',
+      coverLarge:
+        'https://p16-amd-va.tiktokcdn.com/img/tos-useast2a-v-2774/cdeb257c8bf44db692a1c8b0b88f6f5c~c5_720x720.jpeg',
+      authorName: 'PROBASS ∆ HARDI',
+      original: false,
+      duration: 60,
+      album: 'Доброго вечора - Where Are You From',
+    },
+    challenges: [
+      {
+        id: '1704101514523653',
+        title: 'oleg_sheff',
+        desc: '',
+        profileThumb: '',
+        profileMedium: '',
+        profileLarger: '',
+        coverThumb: '',
+        coverMedium: '',
+        coverLarger: '',
+        isCommerce: false,
+      },
+    ],
+    stats: {
+      diggCount: 6,
+      shareCount: 0,
+      commentCount: 0,
+      playCount: 69,
+    },
+    duetInfo: {
+      duetFromId: '0',
+    },
+    originalItem: false,
+    officalItem: false,
+    textExtra: [
+      {
+        awemeId: '',
+        start: 0,
+        end: 11,
+        hashtagName: 'oleg_sheff',
+        hashtagId: '1704101514523653',
+        type: 1,
+        userId: '',
+        isCommerce: false,
+        userUniqueId: '',
+        secUid: '',
+        subType: 0,
+      },
+    ],
+    secret: false,
+    forFriend: false,
+    digged: false,
+    itemCommentStatus: 0,
+    showNotPass: false,
+    vl1: false,
+    itemMute: false,
+    effectStickers: [
+      {
+        name: 'Газета TikTok Times',
+        ID: '1176860',
+      },
+    ],
+    authorStats: {
+      followingCount: 305,
+      followerCount: 62900,
+      heartCount: 1100000,
+      videoCount: 226,
+      diggCount: 9426,
+      heart: 1100000,
+    },
+    privateItem: false,
+    duetEnabled: true,
+    stitchEnabled: true,
+    shareEnabled: true,
+    isAd: false,
+    duetDisplay: 0,
+    stitchDisplay: 0,
+  },
+  {
+    id: '7030846136889986310',
+    desc: '#oleg_sheff',
+    createTime: 1636996432,
+    video: {
+      id: '7030846136889986310',
+      height: 1024,
+      width: 576,
+      duration: 15,
+      ratio: '720p',
+      cover:
+        'https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e31a9812e60940d084d78b6318eb668f_1631373232?x-expires=1637096400&x-signature=HMECawKCszy4GbcvczT3MQfenFg%3D',
+      originCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ff8022961a364d9cb70d2f9a2d18bd33_1636996433?x-expires=1637078400&x-signature=6AiVkcAOOdYuDmMnW0fUDuFt6%2FE%3D',
+      dynamicCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a931adf0023f4f669974dbaebaae47ce_1636996434?x-expires=1637078400&x-signature=utKFVd2IxGHx%2BZAPOsjSe%2Bt18XA%3D',
+      playAddr:
+        'https://v39-eu.tiktokcdn.com/f8ee50c3d169c1e0f104a8f03ac4064c/61942162/video/tos/alisg/tos-alisg-pve-0037c001/449c8bd66c7941a5ba06ef064081e855/?a=1233&br=3502&bt=1751&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=wZ~R_F5qkag3-I&l=20211116152337010189074219181900AA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amttNjU6ZjtmNzMzODczNEApNDhoOTozNWU2NzdkM2Y0ZGdtcTBxcjRvY3JgLS1kMS1zcy5iNDJfMTU2NDMyXjYvNTI6Yw%3D%3D&vl=&vr=',
+      downloadAddr:
+        'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/7a8dead3907a498e8e1ae571f8fc865e/?a=1988&br=2558&bt=1279&cd=0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&expire=1637078715&ft=wUyFfFGnkag3-I&l=2021111610050001018907420806051B9B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=3&qs=0&rc=ampyN2Y6Zmw8OTMzNzczM0ApNTY4ZDM3ZWRoNzc3ZzNkN2dgc2docjRnXjZgLS1kMTZzc2FeLzRjXzUwXy5jMmMwYF46Yw%3D%3D&signature=3301ef4bd90f8c4ab1dbf2a39b1dc560&tk=7001503582143808518&vl=&vr=',
+      shareCover: [
+        '',
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ff8022961a364d9cb70d2f9a2d18bd33_1636996433~tplv-tiktok-play.jpeg?x-expires=1637078400&x-signature=p95qlNR1OuFjZbCUJV4Im4hndAg%3D',
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ff8022961a364d9cb70d2f9a2d18bd33_1636996433~tplv-tiktokx-share-play.jpeg?x-expires=1637078400&x-signature=fVKqBFCtdeD9fhjpCi%2FN6nidB6U%3D',
+      ],
+      reflowCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fa159ffc4a644f21866ac9fc051ee65d_1636996434?x-expires=1637078400&x-signature=uGR7Z1Fj5bZF%2B2u4I7KUBq9CcaY%3D',
+      bitrate: 1310044,
+      encodedType: 'normal',
+      format: 'mp4',
+      videoQuality: 'normal',
+      encodeUserTag: '',
+      codecType: 'h264',
+      definition: '720p',
+    },
+    author: {
+      id: '6787631781866587141',
+      uniqueId: 'oleg_sheff',
+      nickname: 'Олег',
+      avatarThumb:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_100x100.jpeg?x-expires=1637143200&x-signature=9CiaTaf3MNXs8VJ4UbqKDhlCY8k%3D',
+      avatarMedium:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_720x720.jpeg?x-expires=1637143200&x-signature=4rHCslWH7Lu895CrcR5hujN4k8E%3D',
+      avatarLarger:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_1080x1080.jpeg?x-expires=1637143200&x-signature=Z3nYLmqSSF4HJkIwoDZmp6oOODs%3D',
+      signature:
+        '🔥 EXCLUSIVE 🔥\nпопугай ЖАКО 🦜\nзовут Жора 🤘\nРаботает за лайки ❤ и коменты 💬',
+      verified: false,
+      secUid:
+        'MS4wLjABAAAAaKbDq-1WjuYX_DPwvnAyzgPF32lo95K-8MHSrr0HD_5nQ1L-yazTLD2acOEE1En6',
+      secret: false,
+      ftc: false,
+      relation: 0,
+      openFavorite: false,
+      commentSetting: 0,
+      duetSetting: 0,
+      stitchSetting: 0,
+      privateAccount: false,
+    },
+    music: {
+      id: '6965407467035560709',
+      title: 'оригинальный звук',
+      playUrl:
+        'https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7005899101099346693.mp3',
+      coverThumb:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_100x100.jpeg?x-expires=1637143200&x-signature=9CiaTaf3MNXs8VJ4UbqKDhlCY8k%3D',
+      coverMedium:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_720x720.jpeg?x-expires=1637143200&x-signature=4rHCslWH7Lu895CrcR5hujN4k8E%3D',
+      coverLarge:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_1080x1080.jpeg?x-expires=1637143200&x-signature=Z3nYLmqSSF4HJkIwoDZmp6oOODs%3D',
+      authorName: 'Олег',
+      original: true,
+      duration: 59,
+      album: '',
+    },
+    challenges: [
+      {
+        id: '1704101514523653',
+        title: 'oleg_sheff',
+        desc: '',
+        profileThumb: '',
+        profileMedium: '',
+        profileLarger: '',
+        coverThumb: '',
+        coverMedium: '',
+        coverLarger: '',
+        isCommerce: false,
+      },
+    ],
+    stats: {
+      diggCount: 12,
+      shareCount: 0,
+      commentCount: 2,
+      playCount: 204,
+    },
+    duetInfo: {
+      duetFromId: '0',
+    },
+    originalItem: false,
+    officalItem: false,
+    textExtra: [
+      {
+        awemeId: '',
+        start: 0,
+        end: 11,
+        hashtagName: 'oleg_sheff',
+        hashtagId: '1704101514523653',
+        type: 1,
+        userId: '',
+        isCommerce: false,
+        userUniqueId: '',
+        secUid: '',
+        subType: 0,
+      },
+    ],
+    secret: false,
+    forFriend: false,
+    digged: false,
+    itemCommentStatus: 0,
+    showNotPass: false,
+    vl1: false,
+    itemMute: false,
+    authorStats: {
+      followingCount: 305,
+      followerCount: 62900,
+      heartCount: 1100000,
+      videoCount: 226,
+      diggCount: 9426,
+      heart: 1100000,
+    },
+    privateItem: false,
+    duetEnabled: true,
+    stitchEnabled: true,
+    shareEnabled: true,
+    stickersOnItem: [
+      {
+        stickerType: 9,
+        stickerText: ['КрасаФФчик '],
+      },
+    ],
+    isAd: false,
+    duetDisplay: 0,
+    stitchDisplay: 0,
+  },
+  {
+    id: '7030798120694992134',
+    desc: '#oleg_sheff #cat #кот',
+    createTime: 1636985253,
+    video: {
+      id: '7030798120694992134',
+      height: 1024,
+      width: 576,
+      duration: 11,
+      ratio: '720p',
+      cover:
+        'https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e31a9812e60940d084d78b6318eb668f_1631373232?x-expires=1637096400&x-signature=HMECawKCszy4GbcvczT3MQfenFg%3D',
+      originCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2671b736af244b689f120766b5c84057_1636985254?x-expires=1637078400&x-signature=Ix6ucsA%2Bh1KpQXeDCckIrTwJTaQ%3D',
+      dynamicCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/9aa009272dc9411099bd7ea45d2a2428_1636985267?x-expires=1637078400&x-signature=DcXxramq%2BdlJrNlC8kcdUXBkPTw%3D',
+      playAddr:
+        'https://v39-eu.tiktokcdn.com/f8ee50c3d169c1e0f104a8f03ac4064c/61942162/video/tos/alisg/tos-alisg-pve-0037c001/449c8bd66c7941a5ba06ef064081e855/?a=1233&br=3502&bt=1751&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=wZ~R_F5qkag3-I&l=20211116152337010189074219181900AA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amttNjU6ZjtmNzMzODczNEApNDhoOTozNWU2NzdkM2Y0ZGdtcTBxcjRvY3JgLS1kMS1zcy5iNDJfMTU2NDMyXjYvNTI6Yw%3D%3D&vl=&vr=',
+      downloadAddr:
+        'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/4379e4eafa964cf1a827aafb51f6ced2/?a=1988&br=1984&bt=992&cd=0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&expire=1637078711&ft=wUyFfFGnkag3-I&l=2021111610050001018907420806051B9B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=3&qs=0&rc=anBmZGY6ZjM5OTMzNzczM0ApOmlkZDU6ZGRpN2c3O2VkZmdnNXAvcjRfZzZgLS1kMTZzcy4vMTNgNjMyLmBfY2IuX186Yw%3D%3D&signature=3abbeefdd3f235ed20be10c114c2311b&tk=7001503582143808518&vl=&vr=',
+      shareCover: [
+        '',
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2671b736af244b689f120766b5c84057_1636985254~tplv-tiktok-play.jpeg?x-expires=1637078400&x-signature=FQW9yY2Kn%2FaF4Uxyw2wu5xbOskc%3D',
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2671b736af244b689f120766b5c84057_1636985254~tplv-tiktokx-share-play.jpeg?x-expires=1637078400&x-signature=4lo3%2BfXxHu5IdJ14nTD4xT4X%2B0Y%3D',
+      ],
+      reflowCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0092f14f5ced48408d33fa485cde82fb?x-expires=1637078400&x-signature=FySJ77Dw7ziFLNXeJbA5NIQlgyM%3D',
+      bitrate: 1016499,
+      encodedType: 'normal',
+      format: 'mp4',
+      videoQuality: 'normal',
+      encodeUserTag: '',
+      codecType: 'h264',
+      definition: '720p',
+    },
+    author: {
+      id: '6787631781866587141',
+      uniqueId: 'oleg_sheff',
+      nickname: 'Олег',
+      avatarThumb:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_100x100.jpeg?x-expires=1637143200&x-signature=9CiaTaf3MNXs8VJ4UbqKDhlCY8k%3D',
+      avatarMedium:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_720x720.jpeg?x-expires=1637143200&x-signature=4rHCslWH7Lu895CrcR5hujN4k8E%3D',
+      avatarLarger:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_1080x1080.jpeg?x-expires=1637143200&x-signature=Z3nYLmqSSF4HJkIwoDZmp6oOODs%3D',
+      signature:
+        '🔥 EXCLUSIVE 🔥\nпопугай ЖАКО 🦜\nзовут Жора 🤘\nРаботает за лайки ❤ и коменты 💬',
+      verified: false,
+      secUid:
+        'MS4wLjABAAAAaKbDq-1WjuYX_DPwvnAyzgPF32lo95K-8MHSrr0HD_5nQ1L-yazTLD2acOEE1En6',
+      secret: false,
+      ftc: false,
+      relation: 0,
+      openFavorite: false,
+      commentSetting: 0,
+      duetSetting: 0,
+      stitchSetting: 0,
+      privateAccount: false,
+    },
+    music: {
+      id: '7030797942588017413',
+      title: 'оригинальный звук',
+      playUrl:
+        'https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7030798018693630725.mp3',
+      coverThumb:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_100x100.jpeg?x-expires=1637143200&x-signature=9CiaTaf3MNXs8VJ4UbqKDhlCY8k%3D',
+      coverMedium:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_720x720.jpeg?x-expires=1637143200&x-signature=4rHCslWH7Lu895CrcR5hujN4k8E%3D',
+      coverLarge:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_1080x1080.jpeg?x-expires=1637143200&x-signature=Z3nYLmqSSF4HJkIwoDZmp6oOODs%3D',
+      authorName: 'Олег',
+      original: true,
+      duration: 11,
+      album: '',
+    },
+    challenges: [
+      {
+        id: '1704101514523653',
+        title: 'oleg_sheff',
+        desc: '',
+        profileThumb: '',
+        profileMedium: '',
+        profileLarger: '',
+        coverThumb: '',
+        coverMedium: '',
+        coverLarger: '',
+        isCommerce: false,
+      },
+      {
+        id: '7551',
+        title: 'cat',
+        desc: '',
+        profileThumb:
+          'https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2e13829d6e1816708244b2bc8b905c51',
+        profileMedium:
+          'https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2e13829d6e1816708244b2bc8b905c51',
+        profileLarger:
+          'https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2e13829d6e1816708244b2bc8b905c51',
+        coverThumb: '',
+        coverMedium: '',
+        coverLarger: '',
+        isCommerce: false,
+      },
+      {
+        id: '329889',
+        title: 'кот',
+        desc: '',
+        profileThumb: '',
+        profileMedium: '',
+        profileLarger: '',
+        coverThumb: '',
+        coverMedium: '',
+        coverLarger: '',
+        isCommerce: false,
+      },
+    ],
+    stats: {
+      diggCount: 28,
+      shareCount: 0,
+      commentCount: 9,
+      playCount: 424,
+    },
+    duetInfo: {
+      duetFromId: '0',
+    },
+    originalItem: false,
+    officalItem: false,
+    textExtra: [
+      {
+        awemeId: '',
+        start: 0,
+        end: 11,
+        hashtagName: 'oleg_sheff',
+        hashtagId: '1704101514523653',
+        type: 1,
+        userId: '',
+        isCommerce: false,
+        userUniqueId: '',
+        secUid: '',
+        subType: 0,
+      },
+      {
+        awemeId: '',
+        start: 12,
+        end: 16,
+        hashtagName: 'cat',
+        hashtagId: '7551',
+        type: 1,
+        userId: '',
+        isCommerce: false,
+        userUniqueId: '',
+        secUid: '',
+        subType: 0,
+      },
+      {
+        awemeId: '',
+        start: 17,
+        end: 21,
+        hashtagName: 'кот',
+        hashtagId: '329889',
+        type: 1,
+        userId: '',
+        isCommerce: false,
+        userUniqueId: '',
+        secUid: '',
+        subType: 0,
+      },
+    ],
+    secret: false,
+    forFriend: false,
+    digged: false,
+    itemCommentStatus: 0,
+    showNotPass: false,
+    vl1: false,
+    itemMute: false,
+    authorStats: {
+      followingCount: 305,
+      followerCount: 62900,
+      heartCount: 1100000,
+      videoCount: 226,
+      diggCount: 9426,
+      heart: 1100000,
+    },
+    privateItem: false,
+    duetEnabled: true,
+    stitchEnabled: true,
+    shareEnabled: true,
+    stickersOnItem: [
+      {
+        stickerType: 9,
+        stickerText: ['котик'],
+      },
+    ],
+    isAd: false,
+    duetDisplay: 0,
+    stitchDisplay: 0,
+  },
+  {
+    id: '7030689592072277253',
+    desc: '#oleg_sheff',
+    createTime: 1636959987,
+    video: {
+      id: '7030689592072277253',
+      height: 1024,
+      width: 576,
+      duration: 13,
+      ratio: '720p',
+      cover:
+        'https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e31a9812e60940d084d78b6318eb668f_1631373232?x-expires=1637096400&x-signature=HMECawKCszy4GbcvczT3MQfenFg%3D',
+      originCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6df409c36ac84ed6afdacbb3dc9d6be8_1636959989?x-expires=1637078400&x-signature=jJ3KfRG5eUiKGNUXTC43U6O8PM4%3D',
+      dynamicCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1fb0289594b241f8b7c43a008d2906b1_1636959989?x-expires=1637078400&x-signature=tp%2BNm4wvxdzF5iwHIzIMO1XTTRo%3D',
+      playAddr:
+        'https://v39-eu.tiktokcdn.com/f8ee50c3d169c1e0f104a8f03ac4064c/61942162/video/tos/alisg/tos-alisg-pve-0037c001/449c8bd66c7941a5ba06ef064081e855/?a=1233&br=3502&bt=1751&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=wZ~R_F5qkag3-I&l=20211116152337010189074219181900AA&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amttNjU6ZjtmNzMzODczNEApNDhoOTozNWU2NzdkM2Y0ZGdtcTBxcjRvY3JgLS1kMS1zcy5iNDJfMTU2NDMyXjYvNTI6Yw%3D%3D&vl=&vr=',
+      downloadAddr:
+        'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/b13cd2a85d6b477885bb67a3f9c742db/?a=1988&br=1852&bt=926&cd=0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=3&er=&expire=1637078713&ft=wUyFfFGnkag3-I&l=2021111610050001018907420806051B9B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=3&qs=0&rc=M280bmk6Zm8zOTMzNzczM0ApZzs3PGc2aDs1N2RpO2VoO2ducV9gcjRnYTZgLS1kMTZzcy82NWNiLWE0MzNjMjBjLi46Yw%3D%3D&signature=74b41963a88fb389dbeed01920e2f19f&tk=7001503582143808518&vl=&vr=',
+      shareCover: [
+        '',
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6df409c36ac84ed6afdacbb3dc9d6be8_1636959989~tplv-tiktok-play.jpeg?x-expires=1637078400&x-signature=5ZRvPmeU7tisFFalb0%2Fy9c8pEQw%3D',
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6df409c36ac84ed6afdacbb3dc9d6be8_1636959989~tplv-tiktokx-share-play.jpeg?x-expires=1637078400&x-signature=al4gyXw%2FgasjYLwTFKbtsBWPU2Q%3D',
+      ],
+      reflowCover:
+        'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/875588b91d5445fdb801fa8e572f8927?x-expires=1637078400&x-signature=ABSRzLTBQJ1uG9a2pCjJKUUVMdQ%3D',
+      bitrate: 949100,
+      encodedType: 'normal',
+      format: 'mp4',
+      videoQuality: 'normal',
+      encodeUserTag: '',
+      codecType: 'h264',
+      definition: '720p',
+    },
+    author: {
+      id: '6787631781866587141',
+      uniqueId: 'oleg_sheff',
+      nickname: 'Олег',
+      avatarThumb:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_100x100.jpeg?x-expires=1637143200&x-signature=9CiaTaf3MNXs8VJ4UbqKDhlCY8k%3D',
+      avatarMedium:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_720x720.jpeg?x-expires=1637143200&x-signature=4rHCslWH7Lu895CrcR5hujN4k8E%3D',
+      avatarLarger:
+        'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1727974373153eaef0f6f558bf217bc8~c5_1080x1080.jpeg?x-expires=1637143200&x-signature=Z3nYLmqSSF4HJkIwoDZmp6oOODs%3D',
+      signature:
+        '🔥 EXCLUSIVE 🔥\nпопугай ЖАКО 🦜\nзовут Жора 🤘\nРаботает за лайки ❤ и коменты 💬',
+      verified: false,
+      secUid:
+        'MS4wLjABAAAAaKbDq-1WjuYX_DPwvnAyzgPF32lo95K-8MHSrr0HD_5nQ1L-yazTLD2acOEE1En6',
+      secret: false,
+      ftc: false,
+      relation: 0,
+      openFavorite: false,
+      commentSetting: 0,
+      duetSetting: 0,
+      stitchSetting: 0,
+      privateAccount: false,
+    },
+    music: {
+      id: '6993661081218861825',
+      title: 'оригинальный звук',
+      playUrl:
+        'https://sf58-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/6993661045009451778.mp3',
+      coverThumb:
+        'https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/38c6298a103920063888c86c1a8e2dcb.jpeg?x-expires=1637143200&x-signature=6Li81YuoKNKjbwRMvKW%2BAgY1NzE%3D',
+      coverMedium:
+        'https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/38c6298a103920063888c86c1a8e2dcb.jpeg?x-expires=1637143200&x-signature=hHPOrxsjA4PRdUV6X24FmnzOc%2F4%3D',
+      coverLarge:
+        'https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/38c6298a103920063888c86c1a8e2dcb.jpeg?x-expires=1637143200&x-signature=Wnwwi%2Bbz8BWjvqg5jULEmFPuqI4%3D',
+      authorName: 'Игорь',
+      original: true,
+      duration: 27,
+      album: '',
+    },
+    challenges: [
+      {
+        id: '1704101514523653',
+        title: 'oleg_sheff',
+        desc: '',
+        profileThumb: '',
+        profileMedium: '',
+        profileLarger: '',
+        coverThumb: '',
+        coverMedium: '',
+        coverLarger: '',
+        isCommerce: false,
+      },
+    ],
+    stats: {
+      diggCount: 15,
+      shareCount: 0,
+      commentCount: 9,
+      playCount: 186,
+    },
+    duetInfo: {
+      duetFromId: '0',
+    },
+    originalItem: false,
+    officalItem: false,
+    textExtra: [
+      {
+        awemeId: '',
+        start: 0,
+        end: 11,
+        hashtagName: 'oleg_sheff',
+        hashtagId: '1704101514523653',
+        type: 1,
+        userId: '',
+        isCommerce: false,
+        userUniqueId: '',
+        secUid: '',
+        subType: 0,
+      },
+    ],
+    secret: false,
+    forFriend: false,
+    digged: false,
+    itemCommentStatus: 0,
+    showNotPass: false,
+    vl1: false,
+    itemMute: false,
+    effectStickers: [
+      {
+        name: 'Газета TikTok Times',
+        ID: '1176860',
+      },
+    ],
+    authorStats: {
+      followingCount: 305,
+      followerCount: 62900,
+      heartCount: 1100000,
+      videoCount: 226,
+      diggCount: 9426,
+      heart: 1100000,
+    },
+    privateItem: false,
+    duetEnabled: true,
+    stitchEnabled: true,
+    shareEnabled: true,
+    isAd: false,
+    duetDisplay: 0,
+    stitchDisplay: 0,
+  },
+];

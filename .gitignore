@@ -5,8 +5,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# ignore WebStorm IDE configs
+# ignore IDE configs
 .idea/
+.vscode/
 
 # Dependency directories
 node_modules/

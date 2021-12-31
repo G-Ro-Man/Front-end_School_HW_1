@@ -3,6 +3,7 @@ import { Container } from 'react-bootstrap';
 import { TrendingPost } from './components/trending-post';
 import { Header } from './styled';
 import { getTrendingFeed } from '../../utils/fetch-data';
+import { Loader } from '../../components/loader';
 
 type HashtagProps = {
   id: string;
@@ -34,20 +35,15 @@ export const TrendingFeed = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    async function anyNameFunction() {
+    (async () => {
       const data = await getTrendingFeed();
       setFeed(data);
       setLoading(false);
-    }
-    anyNameFunction();
+    })();
   }, []);
 
   if (loading) {
-    return (
-      <Container>
-        <Header>Loading...</Header>
-      </Container>
-    );
+    return <Loader />;
   }
 
   const posts = feed.map((post: PostProps) => (
@@ -69,7 +65,7 @@ export const TrendingFeed = () => {
   return (
     <Container>
       <Header>TikTuk</Header>
-      {posts}
+      {posts.length ? posts : 'There is no data'}
     </Container>
   );
 };

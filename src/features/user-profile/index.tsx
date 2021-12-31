@@ -2,10 +2,10 @@ import { useEffect, useState } from 'react';
 import { Col, Image, Row, Container } from 'react-bootstrap';
 import { useParams } from 'react-router';
 import { mochUserFeed } from '../../utils/moch-user-feed';
-import { minimizeNumber } from '../../utils/minimize-number';
 import { VideoComponent } from '../../components/video';
-import { Header } from './styled';
 import { getUserInfo } from '../../utils/fetch-data';
+import { Loader } from '../../components/loader';
+import { ListItem } from './components/list-item';
 
 type UserInfoProps = {
   user: {
@@ -28,20 +28,15 @@ export const UserProfile = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    async function anyNameFunction() {
+    (async () => {
       const data = await getUserInfo(name);
       setUserInfo(data);
       setLoading(false);
-    }
-    anyNameFunction();
+    })();
   }, [name]);
 
   if (loading) {
-    return (
-      <Container>
-        <Header>Loading...</Header>
-      </Container>
-    );
+    return <Loader />;
   }
 
   const userFeed = mochUserFeed;
@@ -69,24 +64,16 @@ export const UserProfile = () => {
           <div>
             <h2>
               {userInfo.user.uniqueId}{' '}
-              {userInfo.user.verified ? 'verified' : null}
+              {userInfo.user.verified ? 'verified' : ''}
             </h2>
             <p className="m-0">{userInfo.user.nickname}</p>
           </div>
         </Col>
       </Row>
       <ul className="list-inline mb-0 ">
-        <li className="list-inline-item me-2">
-          <strong>{minimizeNumber(userInfo.stats.followingCount)}</strong>{' '}
-          Following
-        </li>
-        <li className="list-inline-item me-2">
-          <strong>{minimizeNumber(userInfo.stats.followerCount)}</strong>{' '}
-          Followers
-        </li>
-        <li className="list-inline-item me-2">
-          <strong>{minimizeNumber(userInfo.stats.heartCount)}</strong> Likes
-        </li>
+        <ListItem title="Following" count={userInfo.stats.followingCount} />
+        <ListItem title="Followers" count={userInfo.stats.followerCount} />
+        <ListItem title="Likes" count={userInfo.stats.followerCount} />
       </ul>
       <div>{userInfo.user.signature}</div>
       <h3 className="text-center my-2">Videos</h3>

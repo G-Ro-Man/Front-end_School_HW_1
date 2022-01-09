@@ -94,9 +94,7 @@ export const mochUserFeed = [
       commentCount: 0,
       playCount: 69,
     },
-    duetInfo: {
-      duetFromId: '0',
-    },
+    duetInfo: { duetFromId: '0' },
     originalItem: false,
     officalItem: false,
     textExtra: [
@@ -238,9 +236,7 @@ export const mochUserFeed = [
       commentCount: 2,
       playCount: 204,
     },
-    duetInfo: {
-      duetFromId: '0',
-    },
+    duetInfo: { duetFromId: '0' },
     originalItem: false,
     officalItem: false,
     textExtra: [
@@ -409,9 +405,7 @@ export const mochUserFeed = [
       commentCount: 9,
       playCount: 424,
     },
-    duetInfo: {
-      duetFromId: '0',
-    },
+    duetInfo: { duetFromId: '0' },
     originalItem: false,
     officalItem: false,
     textExtra: [
@@ -579,9 +573,7 @@ export const mochUserFeed = [
       commentCount: 9,
       playCount: 186,
     },
-    duetInfo: {
-      duetFromId: '0',
-    },
+    duetInfo: { duetFromId: '0' },
     originalItem: false,
     officalItem: false,
     textExtra: [

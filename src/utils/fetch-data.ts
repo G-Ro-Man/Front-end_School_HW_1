@@ -2,7 +2,7 @@
 const URI = 'https://tiktok33.p.rapidapi.com';
 const HEADERS = {
   'x-rapidapi-host': 'tiktok33.p.rapidapi.com',
-  'x-rapidapi-key': '9ad776a4f3msh42a701b507c198fp1cf1d1jsnb6101720100e',
+  'x-rapidapi-key': '1ec67dc736msh6d8439d09719afep1aad27jsn028d07147690',
 };
 
 export const getTrendingFeed = async () => {
@@ -31,7 +31,7 @@ export const getUserInfo = async (name: string | undefined) => {
   }
 };
 
-export const getUserFeed = async (name: string) => {
+export const getUserFeed = async (name: string | undefined) => {
   try {
     const response = await fetch(`${URI}/user/feed/${name}`, {
       method: 'GET',

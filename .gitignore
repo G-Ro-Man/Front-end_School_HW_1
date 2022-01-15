@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ignore IDE configs
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Mac
+.DS_Store
+
+# dotenv environment variables file
+.env
+
+# ignore typescript dist folder
+dist/

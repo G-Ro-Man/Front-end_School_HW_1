@@ -1,5 +1,5 @@
-import { CountView } from './count-view';
-import { Hashtags } from './hashtags';
-import { Nickname } from './nickname';
+import { CountView } from './CountView';
+import { Hashtags } from './Hashtags';
+import { Nickname } from './Nickname';
 
 export { CountView, Hashtags, Nickname };

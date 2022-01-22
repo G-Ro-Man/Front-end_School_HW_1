@@ -1,9 +1,10 @@
 import { FC, useEffect, useState } from 'react';
 import { Container } from 'react-bootstrap';
-import { getTrendingFeed } from '../../utils/fetch-data';
+import styled from 'styled-components';
+
+import { getTrendingFeed } from '../../api/fetch-data';
 import { Loader } from '../../components/loader';
-import { Header } from './styled';
-import { TrendingPosts } from './components/trending-posts';
+import { TrendingPosts } from './components/TrendingPosts';
 
 export const TrendingFeed: FC = () => {
   const [feed, setFeed] = useState([]);
@@ -28,3 +29,12 @@ export const TrendingFeed: FC = () => {
     </Container>
   );
 };
+
+const Header = styled.h1`
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #eb5e5e, -1px -1px 1px #78d0d6;
+`;
+
+Header.displayName = 'TrendingPostHeader';

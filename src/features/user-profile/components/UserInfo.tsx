@@ -1,7 +1,7 @@
 import { FC, useEffect, useState } from 'react';
 import { Col, Image, Row } from 'react-bootstrap';
-import { getUserInfo } from '../../../../utils/fetch-data';
-import { Loader } from '../../../../components/loader';
+import { getUserInfo } from '../../../api/fetch-data';
+import { Loader } from '../../../components/loader';
 
 type UserInfoProps = {
   avatarThumb: string;

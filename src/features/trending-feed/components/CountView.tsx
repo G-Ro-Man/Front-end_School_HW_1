@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import { minimizeNumber } from '../../../../utils/minimize-number';
+import { minimizeNumber } from '../../../utils/minimize-number';
 
 interface CountProps {
   count: number;

@@ -21,3 +21,7 @@ jspm_packages/
 
 # ignore typescript dist folder
 dist/
+
+*.gitignore
+package-lock.json
+yarn.lock

@@ -2,9 +2,10 @@
 import { FC } from 'react';
 import { Col, Row } from 'react-bootstrap';
 import { ChatDots, Heart } from 'react-bootstrap-icons';
-import { CountView, Hashtags, Nickname } from '..';
-import { PostWrapper } from './styled';
-import { VideoComponent } from '../../../../components/video';
+import styled from 'styled-components';
+
+import { CountView, Hashtags, Nickname } from '.';
+import { VideoComponent } from '../../../components/video';
 
 type HashtagProps = {
   hashtagId: string;
@@ -71,3 +72,12 @@ export const TrendingPosts: FC<IPosts> = ({ posts }) => {
     </>
   );
 };
+
+const PostWrapper = styled(Row)`
+  margin: 20px;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 2px 2px 4px 4px #eee;
+`;
+
+PostWrapper.displayName = 'TrendingPostWrapper';

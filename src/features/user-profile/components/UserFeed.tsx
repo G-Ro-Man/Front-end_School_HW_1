@@ -1,8 +1,8 @@
 import { FC, useEffect, useState } from 'react';
 import { Col, Row } from 'react-bootstrap';
-import { Loader } from '../../../../components/loader';
-import { VideoComponent } from '../../../../components/video';
-import { getUserFeed } from '../../../../utils/fetch-data';
+import { Loader } from '../../../components/loader';
+import { VideoComponent } from '../../../components/video';
+import { getUserFeed } from '../../../api/fetch-data';
 
 type VideoProps = {
   video: {

@@ -36,6 +36,7 @@
     ],
     "react/jsx-one-expression-per-line": 0,
     "jsx-a11y/media-has-caption": 0,
-    "comma-dangle": 0
+    "comma-dangle": 0,
+    "no-use-before-define": 0
   }
 }
